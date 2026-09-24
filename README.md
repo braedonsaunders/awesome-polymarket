@@ -62,6 +62,9 @@
   - dappboris-dev/polymarket-trading-bot：https://github.com/dappboris-dev/polymarket-trading-bot
   - MaxWell219/Polymarket-betting-bot：https://github.com/MaxWell219/Polymarket-betting-bot
   - lorine93s/polymarket-market-maker-bot：https://github.com/lorine93s/polymarket-market-maker-bot
+- 预测市场策略交易平台 — braedonsaunders/homerun
+  - 仓库：https://github.com/braedonsaunders/homerun
+  - 说明：开源 Polymarket/Kalshi 策略交易平台，支持编写 Python 策略与数据源、回测、模拟与实盘交易，含 25+ 内置策略、跟单与 AI 评分。
 
 > 提示：社区机器人质量参差不齐，务必仔细审阅代码、测试环境与风控逻辑。
 
